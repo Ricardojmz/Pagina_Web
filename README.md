@@ -1,0 +1,2 @@
+# Pagina_Web
+ Es una Página Web que ingresa mediante un Login donde sus datos se guardan en una Base de Datos, hay un apartado de una imagenen que puede ser sustituida por otra que el usuario elija desde el ordenador. En contacto puede el usuario mandar correo electronico a una cuenta con gmail, es responsiva y tiene una buena interacción con el usuario. Utilizacion de PHP, JavaScript, CSS, Bootstrap, montado a un servidor como XAMPP
